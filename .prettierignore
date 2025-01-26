@@ -1,5 +1,6 @@
 # Ignore artifacts:
 .next
+public
 
 # Ignore all HTML files:
 **/*.html
